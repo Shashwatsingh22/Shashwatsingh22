@@ -1,6 +1,4 @@
-### Hi there !! This is Shashwat Singh ! 👋
-
-Here are some ideas to get you started:
+### Hi there !! I'm Shashwat! 👋
 
 - 🔭 I’m currently working on Enhancing On My Technical Skills...
 - 🌱 I’m currently learning Machine Learning and Codeing Stuffs ...
