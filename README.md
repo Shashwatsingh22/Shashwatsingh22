@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on my Technical Skills...
 - 🌱 I’m currently learning Backend Devlopment tools as well as still improving my DSA concepts...
 - 📫 How to reach me: [LinkedIn: @Hii_Shashwat](https://www.linkedin.com/in/shashwatsing/) || [Facebook: @Shashwat Singh](https://www.facebook.com/shashwat.singh.12914216)
-- OpenSource Contributor : [DockerHub: pull](https://hub.docker.com/u/shashwat22/) || [Ansible Galaxy: plug and play](https://galaxy.ansible.com/shashwatsingh22/)
+-  [DockerHub: pull](https://hub.docker.com/u/shashwat22/) || [Ansible Galaxy: plug and play](https://galaxy.ansible.com/shashwatsingh22/)
 
 
 
