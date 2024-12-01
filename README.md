@@ -12,3 +12,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashwatsingh22)](https://github.com/Shashwatsingh22/github-readme-stats)
 ![Shashwat GitHub stats](https://github-readme-stats.vercel.app/api?username=Shashwatsingh22&show_icons=true&theme=radical)
+
+[![](https://visitcount.itsvg.in/api?id=Shashwatsingh22&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
