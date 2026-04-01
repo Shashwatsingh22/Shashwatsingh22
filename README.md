@@ -21,5 +21,4 @@ Software Development Engineer with 3+ years of experience building scalable back
 #### 📫 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/shashwatsing/)
 - 📧 [Email](mailto:shashwatsingh71@gmail.com)
-- 🐳 [DockerHub](https://hub.docker.com/u/shashwat22/)
 - ✍️ [Medium Blog](https://shashwatsingh71.medium.com/)
